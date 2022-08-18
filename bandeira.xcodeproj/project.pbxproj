@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8416D13228A7028400440724 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416D13128A7028400440724 /* TestViewController.swift */; };
 		84571A0B289B301900CF8B3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84571A0A289B301900CF8B3E /* AppDelegate.swift */; };
 		84571A0D289B301900CF8B3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84571A0C289B301900CF8B3E /* SceneDelegate.swift */; };
 		84571A0F289B301900CF8B3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84571A0E289B301900CF8B3E /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8416D13128A7028400440724 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		84571A07289B301900CF8B3E /* bandeira.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bandeira.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84571A0A289B301900CF8B3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84571A0C289B301900CF8B3E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				84571A13289B301A00CF8B3E /* Assets.xcassets */,
 				84571A15289B301A00CF8B3E /* LaunchScreen.storyboard */,
 				84571A18289B301A00CF8B3E /* Info.plist */,
+				8416D13128A7028400440724 /* TestViewController.swift */,
 			);
 			path = bandeira;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				84571A0F289B301900CF8B3E /* ViewController.swift in Sources */,
 				84571A0B289B301900CF8B3E /* AppDelegate.swift in Sources */,
 				84571A0D289B301900CF8B3E /* SceneDelegate.swift in Sources */,
+				8416D13228A7028400440724 /* TestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
